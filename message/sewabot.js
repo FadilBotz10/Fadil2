@@ -5,10 +5,9 @@ Berikut adalah list harga untuk sewa botz
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
 *┴*
-*│▸* Seminggu : 5K         
-*│▸* 1 Bulan = 10K        
-*│▸* permanen = 20K          
-*|-* Run Bot = 30K + Jadi Owner             
+*│▸* Seminggu = 2K         
+*│▸* 1 Bulan = 4K        
+*│▸* permanen = 5K                       
 *┬*
 *╰────────────[*
 
